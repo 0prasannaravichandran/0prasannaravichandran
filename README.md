@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - Oracle Retail Consultant
 - Learning HTML, CSS, JS, and other Front End related stuffs
 - Love to play and watch Tennis. Huge fan of #N Djokovic
+
+  [Github-Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)
